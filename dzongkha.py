@@ -1,3 +1,5 @@
+import nltk
+
 #python code to read Dzongkha text file
 from nltk.corpus import PlaintextCorpusReader
 corpus_root='C:/Users/Arie Namgay/Documents/GitHub/Dzongkha'
